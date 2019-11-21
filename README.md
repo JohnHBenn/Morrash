@@ -2,7 +2,7 @@
 
 this is some paragraph text
 
-``lua
+```lua
 count = 1
 
 if true then
